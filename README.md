@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact **I'm an Amateur Origami Master!**
   
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N0djRpenE2cTNob2FxcDN0bHN1c3V6N2Z0bXN4ZzdrZGhmM2xubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N0djRpenE2cTNob2FxcDN0bHN1c3V6N2Z0bXN4ZzdrZGhmM2xubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" height="300"/>
 </div>
 
 </br>
