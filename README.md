@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaktibhosale123&label=Profile%20views&color=0e75b6&style=flat" alt="bhaktibhosale123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaktibhosale123" alt="bhaktibhosale123" /></a> </p>
-
 - 🔭 I’m currently working on [BookEazy](https://github.com/Shifa2505/BookEazy)
 
-- 💬 Ask me about **Java , C , React, JavaScript**
+- 💬 Ask me about **Java, C , React, JavaScript**
 
 - 📫 How to reach me **bhaktibhosale875@gmail.com**
 
