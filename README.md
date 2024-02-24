@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://raw.githubusercontent.com/mrpaulishaili/mrpaulishaili/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Bhakti Bhosale</h1>
 
