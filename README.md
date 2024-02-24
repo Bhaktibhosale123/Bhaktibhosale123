@@ -1,4 +1,4 @@
-
+![Header](./C:\Users\bhakt\Downloads\github-header-image.png")
 
 <h1 align="center">Hi 👋, I'm Bhakti Bhosale</h1>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [BookEazy](https://github.com/Shifa2505/BookEazy) which is a service-booking platform
 
-- 💬 Ask me about **Java, C , React, JavaScript**
+- 💬 Ask me about **Java, C, React, JavaScript**
 
 - 📫 How to reach me **bhaktibhosale875@gmail.com**
 
