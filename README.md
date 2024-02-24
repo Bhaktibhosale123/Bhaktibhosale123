@@ -1,5 +1,6 @@
 
 [![Bhaktibhosale123's GitHub | Dependencies](https://stats.quine.sh/Bhaktibhosale123/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Bhaktibhosale123)
+[![Bhaktibhosale123's GitHub | Stats](https://stats.quine.sh/Bhaktibhosale123/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Bhaktibhosale123)
 <h1 align="center">Hi 👋, I'm Bhakti Bhosale</h1>
 
 <h3 align="center">Tech-Forward Student | Innovating Tomorrow's Solutions | Dedicated to Advancing Technology</h3>
