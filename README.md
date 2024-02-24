@@ -25,7 +25,6 @@
 [![Bhaktibhosale123's GitHub | Stats](https://stats.quine.sh/Bhaktibhosale123/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Bhaktibhosale123)
 [![Bhaktibhosale123's GitHub | Dependencies](https://stats.quine.sh/Bhaktibhosale123/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Bhaktibhosale123)
 
-<iframe src="https://giphy.com/embed/9EhYvbmzUuw1xendxV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/she-codes-community-yes-shecodes-she-codes-9EhYvbmzUuw1xendxV">via GIPHY</a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaktibhosale123&show_icons=true&locale=en&layout=compact" alt="bhaktibhosale123" /></p>
 
