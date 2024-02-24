@@ -1,8 +1,6 @@
-![Header](./C:\Users\bhakt\Downloads\github-header-image.png")
+![Header](./your-header-image-name.png)
 
 <h1 align="center">Hi 👋, I'm Bhakti Bhosale</h1>
-
-![Header](./your-header-image-name.png)
 
 <h3 align="center">Tech-Forward Student | Innovating Tomorrow's Solutions | Dedicated to Advancing Technology</h3>
 
