@@ -1,4 +1,5 @@
 ![Header](https://raw.githubusercontent.com/Bhaktibhosale123/Bhaktibhosale123/main/github-header-image.png)
+![Header](https://raw.githubusercontent.com/Bhaktibhosale123/Bhaktibhosale123/main/github-header-image-2.png)
 
 <h1 align="center">Hi 👋, I'm Bhakti Bhosale</h1>
 
