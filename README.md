@@ -2,7 +2,6 @@
 
 
 <h3 align="center">Tech-Forward Student | Innovating Tomorrow's Solutions | Dedicated to Advancing Technology</h3>
-<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaktibhosale123&label=Profile%20views&color=0e75b6&style=flat" alt="bhaktibhosale123" /> </p>
 - 🔭 I’m currently working on [BookEazy](https://github.com/Shifa2505/BookEazy) which is a service-booking platform
 
@@ -12,10 +11,9 @@
 
 - ⚡ Fun fact **I'm an Amateur Origami Master!**
   
-<div id="header" align="right">
+<p id="header" align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N0djRpenE2cTNob2FxcDN0bHN1c3V6N2Z0bXN4ZzdrZGhmM2xubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" height="300"/>
-</div>
-</div>
+</p>
 </br>
 
 [![Bhaktibhosale123's GitHub | Stats](https://stats.quine.sh/Bhaktibhosale123/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Bhaktibhosale123)
