@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaktibhosale123&label=Profile%20views&color=0e75b6&style=flat" alt="bhaktibhosale123" /> </p>
 
-- 🔭 I’m currently working on [BookEazy](https://github.com/Shifa2505/BookEazy)
+- 🔭 I’m currently working on [BookEazy](https://github.com/Shifa2505/BookEazy) which is a service-booking platform
 
 - 💬 Ask me about **Java, C , React, JavaScript**
 
